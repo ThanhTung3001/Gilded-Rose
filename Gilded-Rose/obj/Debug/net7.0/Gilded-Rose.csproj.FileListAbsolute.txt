@@ -1,0 +1,15 @@
+/Users/thanhtung/Desktop/Source/Gided-Rose/Gilded-Rose/bin/Debug/net7.0/Gilded-Rose
+/Users/thanhtung/Desktop/Source/Gided-Rose/Gilded-Rose/bin/Debug/net7.0/Gilded-Rose.deps.json
+/Users/thanhtung/Desktop/Source/Gided-Rose/Gilded-Rose/bin/Debug/net7.0/Gilded-Rose.runtimeconfig.json
+/Users/thanhtung/Desktop/Source/Gided-Rose/Gilded-Rose/bin/Debug/net7.0/Gilded-Rose.dll
+/Users/thanhtung/Desktop/Source/Gided-Rose/Gilded-Rose/bin/Debug/net7.0/Gilded-Rose.pdb
+/Users/thanhtung/Desktop/Source/Gided-Rose/Gilded-Rose/obj/Debug/net7.0/Gilded-Rose.csproj.AssemblyReference.cache
+/Users/thanhtung/Desktop/Source/Gided-Rose/Gilded-Rose/obj/Debug/net7.0/Gilded-Rose.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thanhtung/Desktop/Source/Gided-Rose/Gilded-Rose/obj/Debug/net7.0/Gilded-Rose.AssemblyInfoInputs.cache
+/Users/thanhtung/Desktop/Source/Gided-Rose/Gilded-Rose/obj/Debug/net7.0/Gilded-Rose.AssemblyInfo.cs
+/Users/thanhtung/Desktop/Source/Gided-Rose/Gilded-Rose/obj/Debug/net7.0/Gilded-Rose.csproj.CoreCompileInputs.cache
+/Users/thanhtung/Desktop/Source/Gided-Rose/Gilded-Rose/obj/Debug/net7.0/Gilded-Rose.dll
+/Users/thanhtung/Desktop/Source/Gided-Rose/Gilded-Rose/obj/Debug/net7.0/refint/Gilded-Rose.dll
+/Users/thanhtung/Desktop/Source/Gided-Rose/Gilded-Rose/obj/Debug/net7.0/Gilded-Rose.pdb
+/Users/thanhtung/Desktop/Source/Gided-Rose/Gilded-Rose/obj/Debug/net7.0/Gilded-Rose.genruntimeconfig.cache
+/Users/thanhtung/Desktop/Source/Gided-Rose/Gilded-Rose/obj/Debug/net7.0/ref/Gilded-Rose.dll
